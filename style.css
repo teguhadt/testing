@@ -1,0 +1,22 @@
+h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-variant: small-caps;
+  font-style: italic;
+} 
+/* ini adalah h2 */
+h2{
+  font-size: 50px;
+  color: rgb(193, 26, 73)
+}
+p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  word-spacing: 5px;
+  color: white;
+}
+body{
+  background-color: lightblue;
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-position: top right;
+}
